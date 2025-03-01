@@ -36,11 +36,12 @@
 
 - Columns
   - Column
-    - Stack: Bg color, space between for vertical, min-height 100%
-      - Heading
-      - Paragraph
-    - Buttons
-      - Button
+    - Stack: Bg color, space between, min-height 100%, padding
+      - Stack:
+        - Heading
+        - Paragraph
+      - Buttons
+        - Button
 
 . . . . . . . .
 
