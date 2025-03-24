@@ -6,6 +6,8 @@
 
 > Search `STOPPED HERE`
 
+Cloudflare WAF rules: https://webagencyhero.com/cloudflare-waf-rules-v3/#elementor-toc__heading-anchor-0
+
 WEB AGENCIES:
 
 1. https://www.americaneagle.com/

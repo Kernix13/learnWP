@@ -21,50 +21,51 @@ Excellent or Great
 
 All of the lessons here are great: Beginner WordPress User: https://learn.wordpress.org/course/beginner-wordpress-user/
 
-1. Introduction to theme.json: https://learn.wordpress.org/tutorial/introduction-to-theme-json/
-2. Designing with Row and Stack blocks: https://learn.wordpress.org/lesson/designing-with-row-and-stack-blocks/
-3. Uncovering the Cover block: https://learn.wordpress.org/lesson/uncovering-the-cover-block/
-4. Advanced WordPress block layouts: https://learn.wordpress.org/lesson/advanced-wordpress-block-layouts/
-5. Customizing your single posts template: https://learn.wordpress.org/lesson/customizing-your-single-posts-template/
-6. Domain management: Understanding DNS records: https://learn.wordpress.org/lesson/domain-management-understanding-dns-records/
-7. Use the Create Block Theme plugin for exports, and theme variations: https://learn.wordpress.org/lesson/use-the-create-block-theme-plugin-for-exports-and-theme-variations/ - REWATCH THIS OVER AND OVER
-8. Block attributes: https://learn.wordpress.org/lesson/block-attributes-2/
-9. Creating a custom template: https://learn.wordpress.org/lesson/creating-a-custom-template/
-10. Using caching to improve website performance - W3 Total Cache plugin: https://learn.wordpress.org/lesson/using-caching-to-improve-website-performance-w3-total-cache-plugin/
-11. Creating custom post types and taxonomies: https://learn.wordpress.org/lesson/creating-custom-post-types-and-taxonomies/
-12. Making the most of the Font Library: https://learn.wordpress.org/lesson/making-the-most-of-the-font-library/
-13. Designing with the columns block: https://learn.wordpress.org/tutorial/designing-with-the-columns-block/
-14. How to Crop Thumbnails in WordPress: https://darkroomphotos.com/wordpress-thumbnail-crop/
-15. `add_shortcode( string $tag, callable $callback )`: https://developer.wordpress.org/reference/functions/add_shortcode/
-16. Designing for accessibility: https://wordpress.tv/2022/12/20/designing-for-accessibility/ see accessibility.md
-17. diving into theme.json: https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/ in leftToDo.md
+1. `Introduction to theme.json`: https://learn.wordpress.org/tutorial/introduction-to-theme-json/
+2. `Designing with Row and Stack blocks`: https://learn.wordpress.org/lesson/designing-with-row-and-stack-blocks/ - stack w\ btn does not work for me
+3. `Uncovering the Cover block`: https://learn.wordpress.org/lesson/uncovering-the-cover-block/
+4. `Customizing your single posts template`: https://learn.wordpress.org/lesson/customizing-your-single-posts-template/
+5. `Domain management: Understanding DNS records`: https://learn.wordpress.org/lesson/domain-management-understanding-dns-records/
+6. `Creating a custom template`: https://learn.wordpress.org/lesson/creating-a-custom-template/
+7. _Using caching to improve website performance - W3 Total Cache plugin_: https://learn.wordpress.org/lesson/using-caching-to-improve-website-performance-w3-total-cache-plugin/
+8. `Creating custom post types and taxonomies`: https://learn.wordpress.org/lesson/creating-custom-post-types-and-taxonomies/ - e.g., `PORTFOLIO`! - they are using Custom Post Type UI plugin
+9. `Making the most of the Font Library`: https://learn.wordpress.org/lesson/making-the-most-of-the-font-library/ - for users - SKIP
+10. `Designing with the columns block`: https://learn.wordpress.org/tutorial/designing-with-the-columns-block/
+11. How to Crop Thumbnails in WordPress: https://darkroomphotos.com/wordpress-thumbnail-crop/
+12. `add_shortcode( string $tag, callable $callback )`: https://developer.wordpress.org/reference/functions/add_shortcode/
+13. _Designing for accessibility_: https://wordpress.tv/2022/12/20/designing-for-accessibility/ see accessibility.md - `43:18` - SKIP
+14. _diving into theme.json_: https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/ in leftToDo.md - `59:55` - SKIP
+15. _Advanced WordPress block layouts_: https://learn.wordpress.org/lesson/advanced-wordpress-block-layouts/
+16. _Block attributes_: https://learn.wordpress.org/lesson/block-attributes-2/ - block dev, copyright block - I deleted that theme
+17. Use the Create Block Theme plugin for exports, and theme variations: https://learn.wordpress.org/lesson/use-the-create-block-theme-plugin-for-exports-and-theme-variations/ - REWATCH THIS OVER AND OVER
+18. Create Block Theme plugin: https://learn.wordpress.org/lesson/create-block-theme-plugin/
 
 Good or Really Good:
 
-1. How to Teach WordPress in 2023: https://toolset.com/2021/02/how-to-teach-wordpress/
-2. Creating a new header with blocks: https://learn.wordpress.org/tutorial/creating-a-new-header-with-blocks/ in leftToDo.md
-3. How to Create a Menu with the Navigation Block: https://learn.wordpress.org/tutorial/how-to-create-a-menu-with-the-navigation-block/ in leftToDo.md
-4. Add and remove a logo and site icon: https://learn.wordpress.org/tutorial/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/ in leftToDo.md
-5. Designing with the Columns block: https://learn.wordpress.org/lesson/designing-with-the-columns-block/
-6. Building a page with only patterns: https://learn.wordpress.org/lesson/building-a-page-with-only-patterns/
-7. Creating your own custom synced and non-synced patterns: https://learn.wordpress.org/lesson/creating-your-own-custom-synced-and-non-synced-patterns/
-8. Customizing the search results template: https://learn.wordpress.org/lesson/customizing-the-search-results-template/
-9. Adding and customizing a category template: https://learn.wordpress.org/lesson/adding-and-customizing-category-template/
-10. Testing your content for accessibility: https://learn.wordpress.org/lesson/testing-your-content-for-accessibility/
-11. Managing Settings: Discussion: https://learn.wordpress.org/lesson/managin-settings-discussion/
-12. Managing Settings: Permalinks: https://learn.wordpress.org/lesson/managing-settings-permalinks/
-13. Tools: Export and Import: https://learn.wordpress.org/lesson/tools-export-and-import/
-14. Tools: Site Health: https://learn.wordpress.org/lesson/tools-site-health/
-15. Migrating your site Part 1: Changing to a new host and domain: https://learn.wordpress.org/lesson/migrating-your-site-part-1-changing-to-a-new-host-and-domain/
-16. Migrating your site Part 2: Changing your host but keeping your domain: https://learn.wordpress.org/lesson/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/
-17. WordPress taxonomies: https://learn.wordpress.org/lesson/wordpress-taxonomies-2/
-18. Use WordPress to create a one-page site: https://learn.wordpress.org/lesson/use-wordpress-to-create-a-one-page-site/
-19. How to build a responsive WordPress website: https://learn.wordpress.org/lesson/how-to-build-a-responsive-wordpress-website/
-20. Using a CDN to enhance performance: https://learn.wordpress.org/lesson/using-a-cdn-to-enhance-performance/
-21. Create Block Theme plugin: https://learn.wordpress.org/tutorial/manage-your-block-theme-fonts-with-create-block-theme/ in leftToDo.md
-22. Getting Started in eCommerce: From Idea to First Customer: https://learn.wordpress.org/tutorial/getting-started-in-ecommerce-from-idea-to-first-customer/ in ecommerce/ecommerce1.md
-23. WordPress request lifecycle: https://learn.wordpress.org/tutorial/the-wordpress-request-lifecycle/ in lifeCycle.md
-24. WordPress Troubleshooting Basics Part 2: Troubleshooting with Logs: https://learn.wordpress.org/tutorial/wordpress-troubleshooting-basics-part-2-troubleshooting-with-logs/
+1. _How to Teach WordPress in 2023_: https://toolset.com/2021/02/how-to-teach-wordpress/
+2. `Creating a new header with blocks`: https://learn.wordpress.org/tutorial/creating-a-new-header-with-blocks/ in leftToDo.md
+3. `How to Create a Menu with the Navigation Block`: https://learn.wordpress.org/tutorial/how-to-create-a-menu-with-the-navigation-block/ in leftToDo.md
+4. `Add and remove a logo and site icon`: https://learn.wordpress.org/tutorial/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/ in leftToDo.md
+5. `Designing with the Columns block`: https://learn.wordpress.org/lesson/designing-with-the-columns-block/
+6. `Building a page with only patterns`: https://learn.wordpress.org/lesson/building-a-page-with-only-patterns/
+7. `Creating your own custom synced and non-synced patterns`: https://learn.wordpress.org/lesson/creating-your-own-custom-synced-and-non-synced-patterns/
+8. `Customizing the search results template`: https://learn.wordpress.org/lesson/customizing-the-search-results-template/
+9. `Adding and customizing a category template`: https://learn.wordpress.org/lesson/adding-and-customizing-category-template/ - unique header for each cat
+10. `Testing your content for accessibility`: https://learn.wordpress.org/lesson/testing-your-content-for-accessibility/
+11. `Managing Settings: Discussion`: https://learn.wordpress.org/lesson/managin-settings-discussion/
+12. `Managing Settings: Permalinks`: https://learn.wordpress.org/lesson/managing-settings-permalinks/ - good tip for manually setting the slug, and for adding a label for category (topic) & tag (keyword) - only change the link structure when a post or page is new or use Redirection plugin
+13. `Tools: Export and Import`: https://learn.wordpress.org/lesson/tools-export-and-import/ - gets posts, pages, media library, patterns, and templates - not the site's design (?), themes or plugins
+14. `Tools: Site Health`: https://learn.wordpress.org/lesson/tools-site-health/ - copy info!
+15. `Migrating your site Part 1: Changing to a new host and domain`: https://learn.wordpress.org/lesson/migrating-your-site-part-1-changing-to-a-new-host-and-domain/
+16. `Migrating your site Part 2: Changing your host but keeping your domain`: https://learn.wordpress.org/lesson/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/
+17. `WordPress taxonomies`: https://learn.wordpress.org/lesson/wordpress-taxonomies-2/
+18. `Use WordPress to create a one-page site`: https://learn.wordpress.org/lesson/use-wordpress-to-create-a-one-page-site/
+19. `How to build a responsive WordPress website`: https://learn.wordpress.org/lesson/how-to-build-a-responsive-wordpress-website/
+20. `Using a CDN to enhance performance`: https://learn.wordpress.org/lesson/using-a-cdn-to-enhance-performance/
+21. `Create Block Theme plugin`: https://learn.wordpress.org/tutorial/manage-your-block-theme-fonts-with-create-block-theme/ in leftToDo.md
+22. _Getting Started in eCommerce: From Idea to First Customer_: https://learn.wordpress.org/tutorial/getting-started-in-ecommerce-from-idea-to-first-customer/ in ecommerce/ecommerce1.md `21:21`
+23. `WordPress request lifecycle`: https://learn.wordpress.org/tutorial/the-wordpress-request-lifecycle/ in lifeCycle.md - BORING
+24. _WordPress Troubleshooting Basics Part 2_: Troubleshooting with Logs: `26:43` https://learn.wordpress.org/tutorial/wordpress-troubleshooting-basics-part-2-troubleshooting-with-logs/
 
 Okay: Plan Your Homepage - https://wordpress.com/learn/courses/getting-started/plan-your-homepage/
 
