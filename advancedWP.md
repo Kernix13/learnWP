@@ -26,7 +26,7 @@ The best way to establish a custom post type on your site:
 - you probably want tto set Hierarchical to `True` and "Show in quick/bulk edit panel" to `True`
 - when done you need to edit your custom post type: Add/Edit Post Type > choose the post type and check your new taxonomies > Save
 - then add your variations for your custom taxonomies, e.g. for Height, "Less than 3000'", "Above 12000'", etc
-- then create your first custom post type entry > then provide a way for your users to view them - create a page to display the CPT archives - make sure to change its slug to match the slug of your post type > add it to your menu
+- then create your first custom post type entry > then provide a way for your users to view them - create a new page to display the CPT archives - make sure to change its slug (Quick Edit) to match the slug of your post type (remove the 's' if necessary) > add it to your menu
 - he is adding a sub menu for Height and Climbing Rating as placeholders - add 2 hashtags `##` in the URL field to ensure they are not clickable
 - select each one > 3 vert dots > Add submenu link > less for the values
 
