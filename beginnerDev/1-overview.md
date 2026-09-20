@@ -64,19 +64,19 @@ server {
 - `wp-config.php`: the main configuration file for a WP site and requires:
 - `wp-settings.php`: sets up all the core WP functionality
 - there are other php files in the root directory that perform specific functions outside of regular WP requests - usually accessed directly by a user or another Fx and are not included in a normal WP flow
-- wp-activate.php: to confirm the activation key that is sent to an email after a user signs up for a new site
-- wp-comments-post.php: to process comments submitted on a WP site
-- wp-cron.php: to run any scheduled tasks - run every time a wp page is requested and checks to see if any scheduled tasks need to run
-- wp-links-opmi.php: genearates an xml file of links but that features was removed in WP version 3.5 (included for backwards compatibility)
-- wp-load.php:
-- wp-login.php: displays the login form & processes login requests
-- wp-mail.php: used by the post via email feature
-- wp-signup.php: the signup form for a new site on a multi-site network
-- wp-trackback.php: process trackback requests
-- xmlrpc.php: processes any xml-rpc requests sent to a WP site - that protocol is used by the WP mobile app but you can disable it if you don't use that app to manage your site
-- wp-admin/: all the files that power the admin interface
-- wp-content/: includes files that can be added to a WP install like plugins, themes, uploaded files
-- wp-includes/: the bulk of the core WP files - PHP core files, JS and CSS files, ...
+- `wp-activate.php`: to confirm the activation key that is sent to an email after a user signs up for a new site
+- `wp-comments-post.php`: to process comments submitted on a WP site
+- `wp-cron.php`: to run any scheduled tasks - run every time a wp page is requested and checks to see if any scheduled tasks need to run
+- `wp-links-opmi.php`: genearates an xml file of links but that features was removed in WP version 3.5 (included for backwards compatibility)
+- `wp-load.php`:
+- `wp-login.php`: displays the login form & processes login requests
+- `wp-mail.php`: used by the post via email feature
+- `wp-signup.php`: the signup form for a new site on a multi-site network
+- `wp-trackback.php`: process trackback requests
+- `xmlrpc.php`: processes any xml-rpc requests sent to a WP site - that protocol is used by the WP mobile app but you can disable it if you don't use that app to manage your site
+- `wp-admin/`: all the files that power the admin interface
+- `wp-content/`: includes files that can be added to a WP install like plugins, themes, uploaded files
+- `wp-includes/`: the bulk of the core WP files - PHP core files, JS and CSS files, ...
 
 ## The WordPress database
 

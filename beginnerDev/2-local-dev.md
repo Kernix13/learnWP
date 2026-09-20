@@ -28,7 +28,7 @@ XAMPP
 
 **Others**:
 
-- localwp.com
+- **localwp.com**
 - Studio by WordPress.com: https://developer.wordpress.com/studio/
 - DevKinsta: https://kinsta.com/devkinsta/
 
