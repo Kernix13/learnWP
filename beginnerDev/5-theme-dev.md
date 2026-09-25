@@ -135,6 +135,8 @@ NOTE the JSON:
 
 > The new ![template hierachy](https://i0.wp.com/developer.wordpress.org/files/2023/10/template-hierarchy-scaled.jpeg?ssl=1) for block themes
 
+<!-- The new <img width="125%" src="https://i0.wp.com/developer.wordpress.org/files/2023/10/template-hierarchy-scaled.jpeg?ssl=1" />for block themes -->
+
 ### Common templates found within a theme
 
 - the template used follows a set of rules outlined by the template hierarchy
